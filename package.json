@@ -1,1 +1,6 @@
-
+{
+  "name": "ms-gst-professional-api",
+  "version": "1.0.0",
+  "description": "Professional GST Info API by @MS_HAC4KER",
+  "dependencies": {}
+}
